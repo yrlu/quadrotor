@@ -24,44 +24,11 @@ if t > time_tol
     acc = [0;0;0];
 else
     angle = tj_from_line(0, 2*pi, time_tol, t);
-%     angle = 2*pi*t/time_tol;
     pos = pos_from_angle(angle);
     vel = get_vel(t);
     acc = (get_vel(t+dt) - get_vel(t))/dt;
-%     acc = [0;0;0];
 end
 
-    
-%     function pos = get_pos(t)
-%         if t > time_tol
-%             pos = [radius; 0; 2.5];
-%         else
-%             pos = [radius*cos(2*pi*t/time_tol); radius*sin(2*pi*t/time_tol); 2.5*t/time_tol];
-%         end
-%     end
-% 
-%     function vel = get_vel(t)
-% %         vel = (get_pos(t+dt) - get_pos(t))/dt;
-%         if t > time_tol
-%             vel = [0; 0; 0];
-%         else
-%             v = 2*pi*radius/time_tol;
-%             vel = [-v*sin(2*pi*t/time_tol); v*cos(2*pi*t/time_tol); 2.5*t/time_tol];
-% %             pos = [radius*cos(2*pi*t/time_tol); radius*sin(2*pi*t/time_tol); 2.5*t/time_tol];
-%         end
-%     end
-% 
-%     function acc = get_acc(t)
-%         acc = (get_vel(t+dt) - get_vel(t))/dt;
-%     end
-
-% pos = get_pos(t);
-% vel = get_vel(t);
-% % acc = get_acc(t);
-% acc = [0;0;0];
-
-% yaw = 2*pi*t/time_tol;
-% yawdot = 2*pi/time_tol;
 yaw = 0;
 yawdot = 0;
 % =================== Your code ends here ===================
