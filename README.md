@@ -1,11 +1,11 @@
 ## Quadrotor Control, Path Planning and Trajectory Generation
 
-Following MEAM 620 Advanced Robotics course at University of Pennsylvania.
+Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/wiki/) course at University of Pennsylvania.
 
-This repo include matlab code for:
+This repo includes matlab code for:
 - Quadrotor PD controller
 - Path planning algorithms (Dijkstra, A*)
-- Trajectory planning (Minimum Snap/Acceleration Trajectory)
+- Trajectory planning algorithms (Minimum Snap/Acceleration Trajectory)
 
 ## PD Controller
 
