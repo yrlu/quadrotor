@@ -1,0 +1,4 @@
+# An example environment
+# boundary xmin ymin zmin xmax ymax zmax
+# block xmin ymin zmin xmax ymax zmax r g b
+boundary 0 0 0 10 10 10
