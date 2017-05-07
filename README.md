@@ -36,6 +36,7 @@ This repo includes matlab code for:
 
 - See [project_report.pdf](project_report.pdf) for more details about trajectory generation
 - See `traj_planning/runsim.m` and run path 1 or path 3.
+- See `traj_planning/path_planning/dijkstra.m` for path finding algorithms (dijstra, A*).
 - Visualization below.
 
 #### Minimum Acceleration Trajectory
