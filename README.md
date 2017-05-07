@@ -1,4 +1,4 @@
-## Quadrotor Control, Path Planning and Trajectory Generation
+## Quadrotor Control, Path Planning and Trajectory Optimization
 <a href="https://youtu.be/lA2B1YDLJaY">
 <img src="imgs/hover.jpg" alt="step" width="600">
 </a>
@@ -11,12 +11,13 @@ Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/
 This repo includes matlab code for:
 - Quadrotor PD controller
 - Path planning algorithms (Dijkstra, A*)
-- Trajectory planning algorithms (Minimum Snap/Acceleration Trajectory)
+- Trajectory optimizations (Minimum Snap/Acceleration Trajectory)
 
 ## PD Controller
 
+- Run code: change trajectories in file `control/runsim.m` and run.
 - See [quadrotor_dynamics.pdf](quadrotor_dynamics.pdf) for dynamic modeling of the quadrotor.
-- Change trajectories in file `control/runsim.m` and run.
+- See `control/controller.m` for implementation of the PD controller.
 - Visualization below. Desired (blue) vs Actual (red)
 
 #### Trajectory 1: Step
@@ -32,11 +33,13 @@ This repo includes matlab code for:
 
 <img src="gifs/p1p1_diamond.gif" alt="step" width="300"> <img src="imgs/p1p1_diamond_p.jpg" alt="step" width="250"> <img src="imgs/p1p1_diamond_v.jpg" alt="step" width="250">
 
-## Path Planning and Trajectory Planning
+## Path Planning and Trajectory Optimization
 
+- Run code: `traj_planning/runsim.m` and run path 1 or path 3.
 - See [project_report.pdf](project_report.pdf) for more details about trajectory generation
-- See `traj_planning/runsim.m` and run path 1 or path 3.
-- See `traj_planning/path_planning/dijkstra.m` for path finding algorithms (dijstra, A*).
+- See `traj_planning/path_planning/dijkstra.m` for implementation of path finding algorithms (dijstra, A*).
+- See `traj_planning/traj_opt7.m` for implementations of minimium snap trajectory.
+- See `traj_planning/traj_opt5.m` for implementations of minimium acceleration trajectory.
 - Visualization below.
 
 #### Minimum Acceleration Trajectory
