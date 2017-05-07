@@ -1,8 +1,12 @@
 ## Quadrotor Control, Path Planning and Trajectory Generation
-
+<a href="https://youtu.be/lA2B1YDLJaY">
 <img src="imgs/hover.jpg" alt="step" width="600">
+</a>
 
-Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/wiki/) course at University of Pennsylvania.
+(Click above image for real quadrotor demos)
+
+Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/wiki/) course at University of Pennsylvania. 
+
 
 This repo includes matlab code for:
 - Quadrotor PD controller
