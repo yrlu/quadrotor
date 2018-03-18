@@ -7,6 +7,7 @@
 
 Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/wiki/) course at University of Pennsylvania. 
 
+(For Penn students: *DO NOT* spoil the fun by looking at this repo and not working on your assignments! and most importantly, *DO NOT* violate the honor code!)
 
 This repo includes matlab code for:
 - Quadrotor PD controller
