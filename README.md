@@ -23,16 +23,16 @@ This repo includes matlab code for:
 
 #### Trajectory 1: Step
 
-<img src="gifs/p1p1_step.gif" alt="step" width="310"> <img src="imgs/p1p1_step_p.jpg" alt="step" width="280"> <img src="imgs/p1p1_step_v.jpg" alt="step" width="280">
+<img src="gifs/p1p1_step.gif" alt="step" width="300"> <img src="imgs/p1p1_step_p.jpg" alt="step" width="280"> <img src="imgs/p1p1_step_v.jpg" alt="step" width="280">
 
 
 #### Trajectory 2: Circle
 
-<img src="gifs/p1p1_circle.gif" alt="step" width="310"> <img src="imgs/p1p1_circle_p.jpg" alt="step" width="280"> <img src="imgs/p1p1_circle_v.jpg" alt="step" width="280">
+<img src="gifs/p1p1_circle.gif" alt="step" width="300"> <img src="imgs/p1p1_circle_p.jpg" alt="step" width="280"> <img src="imgs/p1p1_circle_v.jpg" alt="step" width="280">
 
 #### Trajectory 2: Diamond
 
-<img src="gifs/p1p1_diamond.gif" alt="step" width="310"> <img src="imgs/p1p1_diamond_p.jpg" alt="step" width="280"> <img src="imgs/p1p1_diamond_v.jpg" alt="step" width="280">
+<img src="gifs/p1p1_diamond.gif" alt="step" width="300"> <img src="imgs/p1p1_diamond_p.jpg" alt="step" width="280"> <img src="imgs/p1p1_diamond_v.jpg" alt="step" width="280">
 
 ## Path Planning and Trajectory Optimization
 
@@ -45,15 +45,15 @@ This repo includes matlab code for:
 
 #### Minimum Acceleration Trajectory
 
-<img src="gifs/p1p3_map1_acc.gif" alt="step" width="310"> <img src="imgs/p1p3_map1_acc_p.jpg" alt="step" width="280"> <img src="imgs/p1p3_map1_acc_v.jpg" alt="step" width="280">
+<img src="gifs/p1p3_map1_acc.gif" alt="step" width="300"> <img src="imgs/p1p3_map1_acc_p.jpg" alt="step" width="280"> <img src="imgs/p1p3_map1_acc_v.jpg" alt="step" width="280">
 
-<img src="gifs/p1p3_map3_mini_acc.gif" alt="step" width="310"> <img src="imgs/p1p3_map3_mini_acc_p.jpg" alt="step" width="280"> <img src="imgs/p1p3_map3_mini_acc_v.jpg" alt="step" width="280">
+<img src="gifs/p1p3_map3_mini_acc.gif" alt="step" width="300"> <img src="imgs/p1p3_map3_mini_acc_p.jpg" alt="step" width="280"> <img src="imgs/p1p3_map3_mini_acc_v.jpg" alt="step" width="280">
 
 
 #### Minimum Snap Trajectory
 
-<img src="gifs/p1p3_map1_snap.gif" alt="step" width="310"> <img src="imgs/p1p3_map1_snap_v.jpg" alt="step" width="280"> <img src="imgs/p1p3_map1_snap_v.jpg" alt="step" width="280">
+<img src="gifs/p1p3_map1_snap.gif" alt="step" width="300"> <img src="imgs/p1p3_map1_snap_v.jpg" alt="step" width="280"> <img src="imgs/p1p3_map1_snap_v.jpg" alt="step" width="280">
 
 (with way points constraints)
 
-<img src="gifs/p1p3_map3_snap.gif" alt="step" width="310"> <img src="imgs/p1p3_map3_snap_p.jpg" alt="step" width="280"> <img src="imgs/p1p3_map3_snap_v.jpg" alt="step" width="280">
+<img src="gifs/p1p3_map3_snap.gif" alt="step" width="300"> <img src="imgs/p1p3_map3_snap_p.jpg" alt="step" width="280"> <img src="imgs/p1p3_map3_snap_v.jpg" alt="step" width="280">
