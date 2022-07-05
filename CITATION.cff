@@ -4,8 +4,8 @@ authors:
 - family-names: "Lu"
   given-names: "Yiren"
   orcid: "https://orcid.org/0000-0002-7924-2488"
-title: "Quadrotor Control, Path Planning and Trajectory Optimization"
+title: "yrlu/quadrotor: Quadrotor Control, Path Planning and Trajectory Optimization"
 version: 1.0.0
 doi: 10.5281/zenodo.6796215
-date-released: 2022-07-04
+date-released: 2022-07-05
 url: "https://github.com/yrlu/quadrotor"
