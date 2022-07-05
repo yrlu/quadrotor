@@ -14,6 +14,20 @@ This repo includes matlab code for:
 - Path planning algorithms (Dijkstra, A*)
 - Trajectory optimizations (Minimum Snap/Acceleration Trajectory)
 
+Please cite this work use the following bibtex if you use the software in your publications
+
+```
+@software{Lu_Quadrotor_Control_Path_2022,
+  author = {Lu, Yiren},
+  doi = {10.5281/zenodo.6796215},
+  month = {7},
+  title = {{Quadrotor Control, Path Planning and Trajectory Optimization}},
+  url = {https://github.com/yrlu/quadrotor},
+  version = {1.0.0},
+  year = {2022}
+}
+```
+
 ## PD Controller
 
 - Run code: change trajectories in file `control/runsim.m` and run.
