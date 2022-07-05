@@ -17,11 +17,11 @@ This repo includes matlab code for:
 Please cite this work using the following bibtex if you use the software in your publications
 
 ```
-@software{Lu_Quadrotor_Control_Path_2022,
+@software{Lu_yrlu_quadrotor_Quadrotor_Control_2022,
   author = {Lu, Yiren},
   doi = {10.5281/zenodo.6796215},
   month = {7},
-  title = {{Quadrotor Control, Path Planning and Trajectory Optimization}},
+  title = {{yrlu/quadrotor: Quadrotor Control, Path Planning and Trajectory Optimization}},
   url = {https://github.com/yrlu/quadrotor},
   version = {1.0.0},
   year = {2022}
