@@ -24,7 +24,7 @@ Please cite this work using the following bibtex if you use the software in your
   title = {{yrlu/quadrotor: Quadrotor Control, Path Planning and Trajectory Optimization}},
   url = {https://github.com/yrlu/quadrotor},
   version = {1.0.0},
-  year = {2022}
+  year = {2017}
 }
 ```
 
