@@ -14,7 +14,7 @@ This repo includes matlab code for:
 - Path planning algorithms (Dijkstra, A*)
 - Trajectory optimizations (Minimum Snap/Acceleration Trajectory)
 
-Please cite this work use the following bibtex if you use the software in your publications
+Please cite this work using the following bibtex if you use the software in your publications
 
 ```
 @software{Lu_Quadrotor_Control_Path_2022,
