@@ -1,4 +1,7 @@
 ## Quadrotor Control, Path Planning and Trajectory Optimization
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6796215.svg)](https://doi.org/10.5281/zenodo.6796215)
+
 <a href="https://youtu.be/lA2B1YDLJaY">
 <img src="imgs/hover.jpg" alt="step" width="600">
 </a>
@@ -17,13 +20,12 @@ This repo includes matlab code for:
 Please cite this work using the following bibtex if you use the software in your publications
 
 ```
-@software{Lu_yrlu_quadrotor_Quadrotor_Control_2022,
+@misc{lu2017quadrotor,
   author = {Lu, Yiren},
   doi = {10.5281/zenodo.6796215},
   month = {7},
   title = {{yrlu/quadrotor: Quadrotor Control, Path Planning and Trajectory Optimization}},
   url = {https://github.com/yrlu/quadrotor},
-  version = {1.0.0},
   year = {2017}
 }
 ```
