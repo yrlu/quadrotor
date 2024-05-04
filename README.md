@@ -6,20 +6,22 @@
 <img src="imgs/hover.jpg" alt="step" width="600">
 </a>
 
-(Click above image for real quadrotor demos)
+(Click the image above to watch real quadrotor demonstrations)
 
 Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/wiki/) course at University of Pennsylvania. 
 
-(For Penn students: *DO NOT* spoil the fun by looking at this repo and not working on your assignments! and most importantly, *DO NOT* violate the honor code!)
+🚫 For Penn students: Please *DO NOT* spoil the learning experience by using this repository as a shortcut for your assignments. Most importantly, *DO NOT* violate the honor code!
 
-This repo includes matlab code for:
-- Quadrotor PD controller
+### Repository Contents
+
+This repository contains MATLAB code for:
+- Quadrotor PD controllers
 - Path planning algorithms (Dijkstra, A*)
-- Trajectory optimizations (Minimum Snap/Acceleration Trajectory)
+- Trajectory optimization algorithms (Minimum Snap/Acceleration Trajectory)
 
-Please cite this work using the following bibtex if you use the software in your publications
+If you use this software in your publications, please cite it using the following BibTeX entry:
 
-```
+```bibtex
 @misc{lu2017quadrotor,
   author = {Lu, Yiren},
   doi = {10.5281/zenodo.6796215},
