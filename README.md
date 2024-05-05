@@ -23,10 +23,10 @@ If you use this software in your publications, please cite it using the followin
 
 ```bibtex
 @misc{lu2017quadrotor,
-  author = {Lu, Yiren},
+  author = {Lu, Yiren and Cai, Myles and Ling, Wudao and Zhou, Xuanyu},
   doi = {10.5281/zenodo.6796215},
   month = {7},
-  title = {{yrlu/quadrotor: Quadrotor Control, Path Planning and Trajectory Optimization}},
+  title = {{yrlu/quadrotor: Quadrotor control, path planning and trajectory optimization}},
   url = {https://github.com/yrlu/quadrotor},
   year = {2017}
 }
